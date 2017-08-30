@@ -1,0 +1,484 @@
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43076 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    633 MBytes  88.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43078 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec  1.32 GBytes    188 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43080 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.84 GBytes    264 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43082 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.81 GBytes    259 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43084 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  2.09 GBytes    299 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43086 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    443 MBytes  61.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43088 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.08 GBytes    155 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43090 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.36 GBytes    195 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43092 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.44 GBytes    206 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43094 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.73 GBytes    247 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43096 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec  1.00 GBytes    143 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43098 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    439 MBytes  61.3 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43100 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    524 MBytes  73.1 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43102 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    437 MBytes  60.9 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43104 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    334 MBytes  46.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43106 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.4 sec    243 MBytes  33.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43108 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    203 MBytes  28.3 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43110 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    253 MBytes  35.4 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43112 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    242 MBytes  33.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43114 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    208 MBytes  29.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43116 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.3 sec    411 MBytes  57.3 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43118 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    371 MBytes  51.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43120 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    477 MBytes  66.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43122 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    274 MBytes  38.2 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43124 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    363 MBytes  50.7 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43126 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    228 MBytes  31.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43128 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    238 MBytes  33.1 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43130 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    158 MBytes  22.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43132 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    219 MBytes  30.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43134 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    543 MBytes  75.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43136 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    549 MBytes  76.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43138 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.3 sec    514 MBytes  71.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43140 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    504 MBytes  70.4 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43142 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    523 MBytes  73.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43144 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec  1.09 GBytes    155 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43146 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.71 GBytes    246 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43148 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.74 GBytes    249 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43150 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec  1.79 GBytes    256 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43152 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.89 GBytes    271 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43154 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec  1013 MBytes    141 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43156 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.53 GBytes    219 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43158 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.53 GBytes    219 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43160 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.58 GBytes    226 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43162 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec  1.62 GBytes    231 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43164 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.4 sec    849 MBytes    118 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43166 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    585 MBytes  81.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43168 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    396 MBytes  55.4 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43170 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    642 MBytes  89.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43172 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    648 MBytes  90.2 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43174 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.3 sec    326 MBytes  45.3 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43176 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    227 MBytes  31.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43178 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    386 MBytes  53.9 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43180 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    168 MBytes  23.4 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43182 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    244 MBytes  34.1 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43184 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    413 MBytes  57.7 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43186 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    671 MBytes  93.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43188 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    221 MBytes  30.9 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43190 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    630 MBytes  88.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43192 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    573 MBytes  80.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43194 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    130 MBytes  18.1 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43196 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    266 MBytes  37.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43198 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.0 sec    258 MBytes  36.1 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43200 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.3 sec    392 MBytes  54.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43202 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.3 sec    436 MBytes  60.7 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43204 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    559 MBytes  77.9 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43206 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.4 sec    507 MBytes  70.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43208 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.2 sec    556 MBytes  77.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43210 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec    573 MBytes  80.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to cool23, TCP port 5001
+TCP window size: 64.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.31 port 43212 connected with 192.168.254.33 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-19.4 sec    148 MBytes  63.7 Mbits/sec
+Fri Feb 10 01:03:46 MST 2017

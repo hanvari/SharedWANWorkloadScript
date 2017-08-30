@@ -1,0 +1,264 @@
+netperf
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to cool12 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+30000000 30000000 30000000    302.31    257.90   
+real 303.69
+user 0.41
+sys 4.86
+iperf-1
+------------------------------------------------------------
+Client connecting to cool12, TCP port 5001
+TCP window size: 28.6 MByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.21 port 40052 connected with 192.168.254.22 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-300.0 sec  10.9 GBytes    312 Mbits/sec
+real 300.53
+user 0.10
+sys 4.90
+iperf-8
+------------------------------------------------------------
+Client connecting to cool12, TCP port 5001
+TCP window size: 28.6 MByte (default)
+------------------------------------------------------------
+[  9] local 192.168.253.21 port 40059 connected with 192.168.254.22 port 5001
+[  5] local 192.168.253.21 port 40054 connected with 192.168.254.22 port 5001
+[  7] local 192.168.253.21 port 40056 connected with 192.168.254.22 port 5001
+[  8] local 192.168.253.21 port 40057 connected with 192.168.254.22 port 5001
+[  3] local 192.168.253.21 port 40058 connected with 192.168.254.22 port 5001
+[ 10] local 192.168.253.21 port 40060 connected with 192.168.254.22 port 5001
+[  6] local 192.168.253.21 port 40053 connected with 192.168.254.22 port 5001
+[  4] local 192.168.253.21 port 40055 connected with 192.168.254.22 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-300.3 sec  1.70 GBytes  48.7 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  9]  0.0-300.3 sec  1.86 GBytes  53.2 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-300.4 sec  1.80 GBytes  51.5 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 10]  0.0-300.4 sec  1.50 GBytes  42.8 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-300.6 sec  1.93 GBytes  55.0 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-300.7 sec  1.98 GBytes  56.5 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-300.9 sec  1.62 GBytes  46.2 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  8]  0.0-301.6 sec  1.80 GBytes  51.4 Mbits/sec
+[SUM]  0.0-301.6 sec  14.2 GBytes    404 Mbits/sec
+real 302.00
+user 0.12
+sys 6.63
+iperf-16
+------------------------------------------------------------
+Client connecting to cool12, TCP port 5001
+TCP window size: 28.6 MByte (default)
+------------------------------------------------------------
+[  9] local 192.168.253.21 port 40066 connected with 192.168.254.22 port 5001
+[  6] local 192.168.253.21 port 40061 connected with 192.168.254.22 port 5001
+[  8] local 192.168.253.21 port 40064 connected with 192.168.254.22 port 5001
+[ 11] local 192.168.253.21 port 40065 connected with 192.168.254.22 port 5001
+[  5] local 192.168.253.21 port 40063 connected with 192.168.254.22 port 5001
+[  3] local 192.168.253.21 port 40067 connected with 192.168.254.22 port 5001
+[ 10] local 192.168.253.21 port 40068 connected with 192.168.254.22 port 5001
+[ 14] local 192.168.253.21 port 40069 connected with 192.168.254.22 port 5001
+[  4] local 192.168.253.21 port 40070 connected with 192.168.254.22 port 5001
+[ 13] local 192.168.253.21 port 40072 connected with 192.168.254.22 port 5001
+[ 12] local 192.168.253.21 port 40071 connected with 192.168.254.22 port 5001
+[ 16] local 192.168.253.21 port 40074 connected with 192.168.254.22 port 5001
+[ 17] local 192.168.253.21 port 40075 connected with 192.168.254.22 port 5001
+[ 15] local 192.168.253.21 port 40073 connected with 192.168.254.22 port 5001
+[ 18] local 192.168.253.21 port 40076 connected with 192.168.254.22 port 5001
+[  7] local 192.168.253.21 port 40062 connected with 192.168.254.22 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-300.0 sec  1.15 GBytes  32.9 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 17]  0.0-300.2 sec    864 MBytes  24.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  9]  0.0-300.2 sec  1005 MBytes  28.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-300.4 sec    903 MBytes  25.2 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 12]  0.0-300.4 sec    846 MBytes  23.6 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-300.9 sec    931 MBytes  25.9 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 13]  0.0-301.0 sec  1.17 GBytes  33.3 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0-301.6 sec  1.08 GBytes  30.9 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 11]  0.0-301.7 sec  1.25 GBytes  35.7 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0-301.7 sec  1.07 GBytes  30.6 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-302.4 sec  1.09 GBytes  31.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 18]  0.0-302.5 sec    987 MBytes  27.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  8]  0.0-303.1 sec    911 MBytes  25.2 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 10]  0.0-303.3 sec    846 MBytes  23.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-303.6 sec  1.01 GBytes  28.6 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-305.6 sec  1.05 GBytes  29.4 Mbits/sec
+[SUM]  0.0-305.6 sec  16.0 GBytes    450 Mbits/sec
+real 306.03
+user 0.16
+sys 7.46
+gridFTP-8
+real 281.45
+user 1.41
+sys 13.95
+gridFTP-16
+real 271.91
+user 0.86
+sys 14.76
+UDT
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+UDT_MAXBW(Mbps):-7.62939e-06
+UDT_SNDBUF(MB):	11.5
+UDT_RCVBUF(MB):	11.5
+UDP_SNDBUF(MB):	0.0625
+UDP_RCVBUF(MB):	11.7188
+UDT_MSS(MTU in Bytes):1500
+speed = 397.208Mbits/sec
+real 303.60
+user 13.56
+sys 65.03
+netperf
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to cool12 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+30000000 30000000 30000000    301.18    241.20   
+real 302.54
+user 0.41
+sys 4.44
+iperf-1
+------------------------------------------------------------
+Client connecting to cool12, TCP port 5001
+TCP window size: 28.6 MByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.21 port 40109 connected with 192.168.254.22 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-300.4 sec  9.65 GBytes    276 Mbits/sec
+real 301.51
+user 0.08
+sys 4.22
+iperf-8
+------------------------------------------------------------
+Client connecting to cool12, TCP port 5001
+TCP window size: 28.6 MByte (default)
+------------------------------------------------------------
+[  5] local 192.168.253.21 port 40113 connected with 192.168.254.22 port 5001
+[  3] local 192.168.253.21 port 40111 connected with 192.168.254.22 port 5001
+[  9] local 192.168.253.21 port 40114 connected with 192.168.254.22 port 5001
+[  6] local 192.168.253.21 port 40110 connected with 192.168.254.22 port 5001
+[ 10] local 192.168.253.21 port 40117 connected with 192.168.254.22 port 5001
+[  8] local 192.168.253.21 port 40116 connected with 192.168.254.22 port 5001
+[  7] local 192.168.253.21 port 40112 connected with 192.168.254.22 port 5001
+[  4] local 192.168.253.21 port 40115 connected with 192.168.254.22 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  8]  0.0-300.3 sec  1.98 GBytes  56.7 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 10]  0.0-300.6 sec  1.73 GBytes  49.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-300.9 sec  1.73 GBytes  49.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-301.4 sec  1.48 GBytes  42.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  9]  0.0-301.6 sec  1.88 GBytes  53.5 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-301.7 sec  1.52 GBytes  43.2 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-301.8 sec  1.70 GBytes  48.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-302.7 sec  1.91 GBytes  54.3 Mbits/sec
+[SUM]  0.0-302.7 sec  13.9 GBytes    395 Mbits/sec
+real 303.01
+user 0.13
+sys 6.40
+iperf-16
+------------------------------------------------------------
+Client connecting to cool12, TCP port 5001
+TCP window size: 28.6 MByte (default)
+------------------------------------------------------------
+[  3] local 192.168.253.21 port 40128 connected with 192.168.254.22 port 5001
+[  6] local 192.168.253.21 port 40119 connected with 192.168.254.22 port 5001
+[  5] local 192.168.253.21 port 40122 connected with 192.168.254.22 port 5001
+[  7] local 192.168.253.21 port 40120 connected with 192.168.254.22 port 5001
+[ 10] local 192.168.253.21 port 40121 connected with 192.168.254.22 port 5001
+[ 15] local 192.168.253.21 port 40124 connected with 192.168.254.22 port 5001
+[ 16] local 192.168.253.21 port 40126 connected with 192.168.254.22 port 5001
+[ 12] local 192.168.253.21 port 40123 connected with 192.168.254.22 port 5001
+[ 14] local 192.168.253.21 port 40125 connected with 192.168.254.22 port 5001
+[ 13] local 192.168.253.21 port 40127 connected with 192.168.254.22 port 5001
+[  4] local 192.168.253.21 port 40118 connected with 192.168.254.22 port 5001
+[ 11] local 192.168.253.21 port 40130 connected with 192.168.254.22 port 5001
+[  8] local 192.168.253.21 port 40129 connected with 192.168.254.22 port 5001
+[  9] local 192.168.253.21 port 40131 connected with 192.168.254.22 port 5001
+[ 18] local 192.168.253.21 port 40133 connected with 192.168.254.22 port 5001
+[ 17] local 192.168.253.21 port 40132 connected with 192.168.254.22 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 18]  0.0-300.1 sec  1.03 GBytes  29.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  8]  0.0-300.2 sec    950 MBytes  26.5 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 11]  0.0-300.2 sec    874 MBytes  24.4 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 10]  0.0-300.2 sec  1.07 GBytes  30.7 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 12]  0.0-300.3 sec    968 MBytes  27.0 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-300.5 sec  1.02 GBytes  29.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-300.5 sec  1.10 GBytes  31.5 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 14]  0.0-300.6 sec  1.02 GBytes  29.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  9]  0.0-300.7 sec    844 MBytes  23.6 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 17]  0.0-301.5 sec  1.11 GBytes  31.6 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 13]  0.0-301.9 sec    892 MBytes  24.8 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-302.0 sec    939 MBytes  26.1 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0-302.3 sec  1.15 GBytes  32.6 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0-302.7 sec    864 MBytes  24.0 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-303.6 sec  1.10 GBytes  31.2 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-304.0 sec  1.04 GBytes  29.3 Mbits/sec
+[SUM]  0.0-304.0 sec  15.8 GBytes    447 Mbits/sec
+real 304.98
+user 0.14
+sys 7.52
+gridFTP-8
+real 292.83
+user 0.96
+sys 14.36
+gridFTP-16
+real 275.45
+user 0.73
+sys 14.83
+UDT
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+UDT_MAXBW(Mbps):-7.62939e-06
+UDT_SNDBUF(MB):	11.5
+UDT_RCVBUF(MB):	11.5
+UDP_SNDBUF(MB):	0.0625
+UDP_RCVBUF(MB):	11.7188
+UDT_MSS(MTU in Bytes):1500
+speed = 395.103Mbits/sec
+real 305.21
+user 17.24
+sys 58.68
